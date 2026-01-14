@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skuska_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7659de92d91b703d23ec05ab91ba674691bea7f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("skuska_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skuska_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,3 +27,35 @@
         }
     </tbody>
 </table>
+
+<h3>Pridať novú transakciu</h3>
+
+<form asp-action="AddTransaction" method="post" class="mb-4">
+    <div class="mb-2">
+        <label>Popis</label>
+        <input name="description" class="form-control" required />
+    </div>
+
+    <div class="mb-2">
+        <label>Kategória</label>
+        <input name="category" class="form-control" required />
+    </div>
+
+    <div class="mb-2">
+        <label>Debit</label>
+        <input name="debit" class="form-control" />
+    </div>
+
+    <div class="mb-2">
+        <label>Credit</label>
+        <input name="credit" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Pridať
+    </button>
+</form>
+
+<hr />
+
+

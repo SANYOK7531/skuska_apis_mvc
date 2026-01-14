@@ -32,3 +32,5 @@ C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\obj\Debug\
 C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\obj\Debug\net8.0\skuska_01.pdb
 C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\obj\Debug\net8.0\skuska_01.genruntimeconfig.cache
 C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\obj\Debug\net8.0\ref\skuska_01.dll
+C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\obj\Debug\net8.0\skuska_01.sourcelink.json
+C:\Users\Oleksandr\Desktop\Universaty\4_year\APIS\skuska_01\skuska_01\bin\Debug\net8.0\data.json
